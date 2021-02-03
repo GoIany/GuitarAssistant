@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="CMajorNum">8</integer>
+    <integer name="CMajor0">224455990</integer>
+    <integer name="CMajor0Line">1111101120</integer>
+    <integer name="CMajor1">154433220</integer>
+    <integer name="CMajor1Line">1111103222</integer>
+    <integer name="CMajor2">165566110</integer>
+    <integer name="CMajor2Line">1111115233</integer>
+    <integer name="CMajor3">149999110</integer>
+    <integer name="CMajor3Line">1111005003</integer>
+    <integer name="CMajor4">152233440</integer>
+    <integer name="CMajor4Line">0111107123</integer>
+    <integer name="CMajor5">163355440</integer>
+    <integer name="CMajor5Line">1111118122</integer>
+    <integer name="CMajor6">143311221</integer>
+    <integer name="CMajor6Line">1111000223</integer>
+    <integer name="CMajor7">132244551</integer>
+    <integer name="CMajor7Line">1111102123</integer>
+
+    <integer name="CmNum">5</integer>
+    <integer name="Cm0">442299550</integer>
+    <integer name="Cm0Line">0111101002</integer>
+    <integer name="Cm1">152244330</integer>
+    <integer name="Cm1Line">1111103122</integer>
+    <integer name="Cm2">169955440</integer>
+    <integer name="Cm2Line">1111118022</integer>
+    <integer name="Cm3">141133221</integer>
+    <integer name="Cm3Line">1111000123</integer>
+    <integer name="Cm4">332244551</integer>
+    <integer name="Cm4Line">0111102113</integer>
+
+    <integer name="C6Num">5</integer>
+    <integer name="C60">224433550</integer>
+    <integer name="C60Line">0111101112</integer>
+    <integer name="C61">159914990</integer>
+    <integer name="C61Line">1111103020</integer>
+    <integer name="C62">446622330</integer>
+    <integer name="C62Line">0111017112</integer>
+    <integer name="C63">149933111</integer>
+    <integer name="C63Line">1111000022</integer>
+    <integer name="C64">224433551</integer>
+    <integer name="C64Line">0111103112</integer>
+
+    <integer name="Cm6Num">4</integer>
+    <integer name="Cm60">143355110</integer>
+    <integer name="Cm60Line">1111101122</integer>
+    <integer name="Cm61">446613990</integer>
+    <integer name="Cm61Line">1111017110</integer>
+    <integer name="Cm62">141133991</integer>
+    <integer name="Cm62Line">1111000120</integer>
+    <integer name="Cm63">143399111</integer>
+    <integer name="Cm63Line">1111003102</integer>
+
+    <integer name="Cmb6Num">6</integer>
+    <integer name="Cmb60">149955110</integer>
+    <integer name="Cmb60Line">1111101022</integer>
+    <integer name="Cmb61">152233440</integer>
+    <integer name="Cmb61Line">1111103123</integer>
+    <integer name="Cmb62">166633220</integer>
+    <integer name="Cmb62Line">0111116222</integer>
+    <integer name="Cmb63">162255440</integer>
+    <integer name="Cmb63Line">1111118122</integer>
+    <integer name="Cmb64">169944550</integer>
+    <integer name="Cmb64Line">1111118023</integer>
+    <integer name="Cmb65">224411330</integer>
+    <integer name="Cmb65Line">1111009123</integer>
+
+    <integer name="C7Num">7</integer>
+    <integer name="C70">224455330</integer>
+    <integer name="C70Line">1111101122</integer>
+    <integer name="C710">159944220</integer>
+    <integer name="C71Line">1111103022</integer>
+    <integer name="C72">141199990</integer>
+    <integer name="C72Line">1111005100</integer>
+    <integer name="C73">556644330</integer>
+    <integer name="C73Line">0011117112</integer>
+    <integer name="C74">163355990</integer>
+    <integer name="C74Line">1111118120</integer>
+    <integer name="C75">142233111</integer>
+    <integer name="C75Line">1111000122</integer>
+    <integer name="C76">224455331</integer>
+    <integer name="C76Line">0111103122</integer>
+
+
+
+    <integer name="Cm7Num">6</integer>
+    <integer name="Cm70">445533220</integer>
+    <integer name="Cm70Line">0111101223</integer>
+    <integer name="Cm71">152244990</integer>
+    <integer name="Cm71Line">1111103120</integer>
+    <integer name="Cm72">224433110</integer>
+    <integer name="Cm72Line">1111004112</integer>
+    <integer name="Cm73">169955990</integer>
+    <integer name="Cm73Line">1111118020</integer>
+    <integer name="Cm74">142211331</integer>
+    <integer name="Cm74Line">1111000112</integer>
+    <integer name="Cm75">445533221</integer>
+    <integer name="Cm75Line">0111103223</integer>
+
+
+    <integer name="Cmaj7Num">6</integer>
+    <integer name="Cmaj70">994455990</integer>
+    <integer name="Cmaj70Line">1111101120</integer>
+    <integer name="Cmaj71">153344220</integer>
+    <integer name="Cmaj71Line">1111103122</integer>
+    <integer name="Cmaj72">662244330</integer>
+    <integer name="Cmaj72Line">111018011</integer>
+    <integer name="Cmaj73">112233440</integer>
+    <integer name="Cmaj73Line">1111007123</integer>
+    <integer name="Cmaj74">149913991</integer>
+    <integer name="Cmaj74Line">1111000020</integer>
+    <integer name="Cmaj75">139944551</integer>
+    <integer name="Cmaj75Line">1111102023</integer>
+
+
+    <integer name="Cmaj7p9Num">2</integer>
+    <integer name="Cmaj7p90">999955990</integer>
+    <integer name="Cmaj7p90Line">1111100030</integer>
+    <integer name="Cmaj7p91">149955991</integer>
+    <integer name="Cmaj7p91Line">1111102030</integer>
+
+    <integer name="Cdim7Num">4</integer>
+    <integer name="Cdim70">335544220</integer>
+    <integer name="Cdim70Line">111102122</integer>
+    <integer name="Cdim71">446633550</integer>
+    <integer name="Cdim71Line">11117112</integer>
+    <integer name="Cdim72">165544220</integer>
+    <integer name="Cdim72Line">1111118122</integer>
+    <integer name="Cdim73">143311991</integer>
+    <integer name="Cdim73Line">1111000110</integer>
+
+    <integer name="Cmmaj7Num">6</integer>
+    <integer name="Cmmaj70">449955990</integer>
+    <integer name="Cmmaj70Line">111102010</integer>
+    <integer name="Cmmaj71">153322440</integer>
+    <integer name="Cmmaj71Line">1111103112</integer>
+    <integer name="Cmmaj72">663344550</integer>
+    <integer name="Cmmaj72Line">1111801</integer>
+    <integer name="Cmmaj73">116633220</integer>
+    <integer name="Cmmaj73Line">1110017111</integer>
+    <integer name="Cmmaj74">164455990</integer>
+    <integer name="Cmmaj74Line">111118120</integer>
+    <integer name="Cmmaj75">441133221</integer>
+    <integer name="Cmmaj75Line">1111000122</integer>
+
+    <integer name="C7b5Num">4</integer>
+    <integer name="C7b50">154422990</integer>
+    <integer name="C7b50Line">111103120</integer>
+    <integer name="C7b51">664455330</integer>
+    <integer name="C7b51Line">11118011</integer>
+    <integer name="C7b52">226644330</integer>
+    <integer name="C7b52Line">111017112</integer>
+    <integer name="C7b53">443322111</integer>
+    <integer name="C7b53Line">1111000112</integer>
+
+    <integer name="C7s5Num">3</integer>
+    <integer name="C7s50">445533110</integer>
+    <integer name="C7s50Line">1011102112</integer>
+    <integer name="C7s51">556644130</integer>
+    <integer name="C7s51Line">111117112</integer>
+    <integer name="C7s52">442211331</integer>
+    <integer name="C7s52Line">1111000123</integer>
+
+    <integer name="C7b9Num">2</integer>
+    <integer name="C7b90">442255330</integer>
+    <integer name="C7b90Line">1111102011</integer>
+    <integer name="C7b91">155533110</integer>
+    <integer name="C7b91Line">1111102111</integer>
+
+
+    <integer name="Cm7b5Num">3</integer>
+    <integer name="Cm7b50">553344220</integer>
+    <integer name="Cm7b50Line">111103011</integer>
+    <integer name="Cm7b51">226644330</integer>
+    <integer name="Cm7b51Line">111017111</integer>
+    <integer name="Cm7b52">441399991</integer>
+    <integer name="Cm7b52Line">1111000100</integer>
+
+    <integer name="C9Num">4</integer>
+    <integer name="C90">445513990</integer>
+    <integer name="C90Line">1111102110</integer>
+    <integer name="C91">166644220</integer>
+    <integer name="C91Line">111117111</integer>
+    <integer name="C92">163355110</integer>
+    <integer name="C92Line">1111118122</integer>
+    <integer name="C93">445513991</integer>
+    <integer name="C93Line">1111104110</integer>
+
+    <integer name="Cm9Num">1</integer>
+    <integer name="Cm90">169955110</integer>
+    <integer name="Cm90Line">1111118022</integer>
+
+    <integer name="Cadd9Num">2</integer>
+    <integer name="Cadd90">445522990</integer>
+    <integer name="Cadd90Line">1111102110</integer>
+    <integer name="Cadd91">134455221</integer>
+    <integer name="Cadd91Line">1111102233</integer>
+
+    <integer name="C6p9Num">2</integer>
+    <integer name="C6p90">345522110</integer>
+    <integer name="C6p90Line">1111102111</integer>
+    <integer name="C6p91">156622110</integer>
+    <integer name="C6p91Line">1111117111</integer>
+
+    <integer name="C11Num">2</integer>
+    <integer name="C110">159999990</integer>
+    <integer name="C110Line">1111103000</integer>
+    <integer name="C111">552211990</integer>
+    <integer name="C111Line">1111101000</integer>
+
+    <integer name="Cm11Num">2</integer>
+    <integer name="Cm110">152299990</integer>
+    <integer name="Cm110Line">1111103100</integer>
+    <integer name="Cm111">126644330</integer>
+    <integer name="Cm111Line">1111016222</integer>
+
+    <integer name="C13Num">2</integer>
+    <integer name="C130">154422110</integer>
+    <integer name="C130Line">1111103222</integer>
+    <integer name="C131">163355220</integer>
+    <integer name="C131Line">1111118122</integer>
+
+    <integer name="C5Num">3</integer>
+    <integer name="C50">559944990</integer>
+    <integer name="C50Line">1103020</integer>
+    <integer name="C51">669955990</integer>
+    <integer name="C51Line">118020</integer>
+    <integer name="C52">449933991</integer>
+    <integer name="C52Line">11000020</integer>
+
+    <integer name="Csus2Num">3</integer>
+    <integer name="Csus20">229955990</integer>
+    <integer name="Csus20Line">111101020</integer>
+    <integer name="Csus21">995522990</integer>
+    <integer name="Csus21Line">111100300</integer>
+    <integer name="Csus22">159944330</integer>
+    <integer name="Csus22Line">1111103022</integer>
+
+    <integer name="Csus4Num">4</integer>
+    <integer name="Csus40">229955440</integer>
+    <integer name="Csus40Line">111101022</integer>
+    <integer name="Csus41">154433220</integer>
+    <integer name="Csus41Line">1111103223</integer>
+    <integer name="Csus42">165544330</integer>
+    <integer name="Csus42Line">1111118222</integer>
+    <integer name="Csus43">443322111</integer>
+    <integer name="Csus43Line">1111000233</integer>
+
+    <integer name="CaugNum">4</integer>
+    <integer name="Caug0">134455990</integer>
+    <integer name="Caug0Line">111101120</integer>
+    <integer name="Caug1">113322990</integer>
+    <integer name="Caug1Line">1110004110</integer>
+    <integer name="Caug2">334455660</integer>
+    <integer name="Caug2Line">11115123</integer>
+    <integer name="Caug3">113322440</integer>
+    <integer name="Caug3Line">1111008112</integer>
+
+    <integer name="CdimNum">2</integer>
+    <integer name="Cdim0">554422330</integer>
+    <integer name="Cdim0Line">111103112</integer>
+    <integer name="Cdim1">663355440</integer>
+    <integer name="Cdim1Line">11118012</integer>
+</resources>

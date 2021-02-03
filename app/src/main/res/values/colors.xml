@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#8BC34A</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorMainCode">#266E29</color>
+    <color name="colorSideCode">#266E29</color>
+
+    <color name="colorFret">#6E6D6D</color>
+    <color name="colorPaji">#92F61D</color>
+
+    <color name="colorNotSelected">#949593</color>
+    <color name="colorSelected">#A4E856</color>
+
+    <color name="chordBtnNum">#679C2A</color>#A4E856
+    <color name="chordBtnRight">#9C4832</color>
+    <color name="chordBtnRoot">#A4E856</color>#679C2A
+    <!--FF8BC34A-->
+
+    <color name="lecture_title_color">#370E01</color>
+    <color name="lecture_icon_color">#2CBC33</color>
+    <color name="lecture_textview_color">#E0FFCA</color>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainCodeTv_size">100sp</dimen>
+    <dimen name="mainCodeTvWidth_size">170dp</dimen>
+    <dimen name="sideCodeTv_size">30sp</dimen>
+    <dimen name="sideCodeTvWdth_size">120dp</dimen>
+    <dimen name="paji_size">10dp</dimen>
+    <dimen name="pajiMargin_size">5dp</dimen>
+
+    <dimen name="GuitarFretSideMargin">20dp</dimen>
+    <dimen name="GuitarFretTopMargin">30dp</dimen>
+    <dimen name="GuitarFretWidth">5dp</dimen>
+    <dimen name="GuitarFretBetween">80dp</dimen>
+    <dimen name="GuitarFretBottomMargin">14dp</dimen>
+    <dimen name="GuitarFretTopPadding">44dp</dimen>
+
+    <dimen name="GuitarCodeViewHeight">200dp</dimen>
+
+    <dimen name="UnderbarLinearPadding">10dp</dimen>
+    <dimen name="UnderbarImgbuttonSize">50dp</dimen>
+
+
+</resources>

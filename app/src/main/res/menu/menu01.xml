@@ -1,0 +1,49 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/all"
+        android:title="전체보기" />
+    <item android:title="통기타">
+        <menu >
+            <item
+                android:id="@+id/tong1"
+                android:title="초급" />
+            <item
+                android:id="@+id/tong2"
+                android:title="중급" />
+            <item
+                android:id="@+id/tong3"
+                android:title="고급" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/base"
+        android:title="베이스기타">
+        <menu>
+            <item
+                android:id="@+id/base1"
+                android:title="초급" />
+            <item
+                android:id="@+id/base2"
+                android:title="중급" />
+            <item
+                android:id="@+id/base3"
+                android:title="고급" />
+        </menu>
+    </item>
+    <item android:title="일렉기타">
+        <menu>
+            <item
+                android:id="@+id/ill1"
+                android:title="초급" />
+            <item
+                android:id="@+id/ill2"
+                android:title="중급" />
+            <item
+                android:id="@+id/ill3"
+                android:title="고급" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--
+    <item
+        android:id="@+id/action_chordption"
+        android:icon="@drawable/ic_chord_option"
+        android:title="option"
+        app:showAsAction="always" />
+        -->
+    <item
+        android:id="@+id/selectBtn"
+        android:title="버튼" />
+    <item
+        android:id="@+id/selectList"
+        android:title="리스트" />
+    <item android:title="기타줄 방향">
+        <menu>
+            <item
+                android:id="@+id/lineDerectDown"
+                android:title="위에서부터 1번줄" />
+            <item
+                android:id="@+id/lineDerectUp"
+                android:title="위에서부터 6번줄" />
+        </menu>
+    </item>
+</menu>

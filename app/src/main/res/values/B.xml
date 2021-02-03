@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="BMajorNum">9</integer>
+    <integer name="BMajor0">154433220</integer>
+    <integer name="BMajor0Line">1111102222</integer>
+    <integer name="BMajor1">145566990</integer>
+    <integer name="BMajor1Line">111114230</integer>
+    <integer name="BMajor2">149999110</integer>
+    <integer name="BMajor2Line">1111004003</integer>
+    <integer name="BMajor3">165566110</integer>
+    <integer name="BMajor3Line">1111114233</integer>
+    <integer name="BMajor4">123344990</integer>
+    <integer name="BMajor4Line">1111007120</integer>
+    <integer name="BMajor5">163355440</integer>
+    <integer name="BMajor5Line">1111117122</integer>
+    <integer name="BMajor6">143311220</integer>
+    <integer name="BMajor6Line">1111009223</integer>
+    <integer name="BMajor7">132244551</integer>
+    <integer name="BMajor7Line">1111101123</integer>
+    <integer name="BMajor8">154433221</integer>
+    <integer name="BMajor8Line">1111104222</integer>
+
+    <integer name="BmNum">6</integer>
+    <integer name="Bm0">152244330</integer>
+    <integer name="Bm0Line">1111102122</integer>
+    <integer name="Bm1">345599660</integer>
+    <integer name="Bm1Line">11114103</integer>
+    <integer name="Bm2">169955440</integer>
+    <integer name="Bm2Line">1111117022</integer>
+    <integer name="Bm3">141133220</integer>
+    <integer name="Bm3Line">1111009123</integer>
+    <integer name="Bm4">334422551</integer>
+    <integer name="Bm4Line">111101113</integer>
+    <integer name="Bm5">152244331</integer>
+    <integer name="Bm5Line">1111104122</integer>
+
+    <integer name="B6Num">5</integer>
+    <integer name="B60">559914990</integer>
+    <integer name="B60Line">1111102020</integer>
+    <integer name="B61">446622330</integer>
+    <integer name="B61Line">111016112</integer>
+    <integer name="B62">149933110</integer>
+    <integer name="B62Line">1111009022</integer>
+    <integer name="B63">224433551</integer>
+    <integer name="B63Line">111102112</integer>
+    <integer name="B64">159914991</integer>
+    <integer name="B64Line">1111104020</integer>
+
+    <integer name="Bm6Num">4</integer>
+    <integer name="Bm60">335511990</integer>
+    <integer name="Bm60Line">1111101110</integer>
+    <integer name="Bm61">446613990</integer>
+    <integer name="Bm61Line">1111016110</integer>
+    <integer name="Bm62">141133990</integer>
+    <integer name="Bm62Line">1111009120</integer>
+    <integer name="Bm63">143355111</integer>
+    <integer name="Bm63Line">1111102122</integer>
+
+    <integer name="Bmb6Num">8</integer>
+    <integer name="Bmb60">995511990</integer>
+    <integer name="Bmb60Line">1111100200</integer>
+    <integer name="Bmb61">152233440</integer>
+    <integer name="Bmb61Line">1111102123</integer>
+    <integer name="Bmb62">166633220</integer>
+    <integer name="Bmb62Line">111115222</integer>
+    <integer name="Bmb63">162255440</integer>
+    <integer name="Bmb63Line">1111117122</integer>
+    <integer name="Bmb64">169944550</integer>
+    <integer name="Bmb64Line">1111117023</integer>
+    <integer name="Bmb65">224411330</integer>
+    <integer name="Bmb65Line">1111008123</integer>
+    <integer name="Bmb66">149955111</integer>
+    <integer name="Bmb66Line">1111102022</integer>
+    <integer name="Bmb67">152233441</integer>
+    <integer name="Bmb67Line">1111104123</integer>
+
+    <integer name="B7Num">7</integer>
+    <integer name="B70">445533110</integer>
+    <integer name="B70Line">1111101111</integer>
+    <integer name="B71">159944220</integer>
+    <integer name="B71Line">1111102022</integer>
+    <integer name="B72">141199990</integer>
+    <integer name="B72Line">1111004100</integer>
+    <integer name="B73">556644330</integer>
+    <integer name="B73Line">11116112</integer>
+    <integer name="B74">163355990</integer>
+    <integer name="B74Line">1111117120</integer>
+    <integer name="B75">142233110</integer>
+    <integer name="B75Line">1111009122</integer>
+    <integer name="B76">224455331</integer>
+    <integer name="B76Line">111102122</integer>
+
+    <integer name="Bm7Num">7</integer>
+    <integer name="Bm70">995533110</integer>
+    <integer name="Bm70Line">1111100200</integer>
+    <integer name="Bm71">152244990</integer>
+    <integer name="Bm71Line">1111102120</integer>
+    <integer name="Bm72">224433110</integer>
+    <integer name="Bm72Line">1111003112</integer>
+    <integer name="Bm73">169955990</integer>
+    <integer name="Bm73Line">1111117020</integer>
+    <integer name="Bm74">442211330</integer>
+    <integer name="Bm74Line">1111009112</integer>
+    <integer name="Bm75">445533221</integer>
+    <integer name="Bm75Line">111102223</integer>
+    <integer name="Bm76">152244991</integer>
+    <integer name="Bm76Line">1111104120</integer>
+
+    <integer name="Bmaj7Num">6</integer>
+    <integer name="Bmaj70">153344220</integer>
+    <integer name="Bmaj70Line">1111102122</integer>
+    <integer name="Bmaj71">662244330</integer>
+    <integer name="Bmaj71Line">111017011</integer>
+    <integer name="Bmaj72">112233440</integer>
+    <integer name="Bmaj72Line">1111006123</integer>
+    <integer name="Bmaj73">149913990</integer>
+    <integer name="Bmaj73Line">1111009020</integer>
+    <integer name="Bmaj74">139944551</integer>
+    <integer name="Bmaj74Line">1111101023</integer>
+    <integer name="Bmaj75">153344221</integer>
+    <integer name="Bmaj75Line">1111104122</integer>
+
+    <integer name="Bmaj7p9Num">1</integer>
+    <integer name="Bmaj7p90">445522330</integer>
+    <integer name="Bmaj7p90Line">111101112</integer>
+
+    <integer name="Bdim7Num">3</integer>
+    <integer name="Bdim70">335544220</integer>
+    <integer name="Bdim70Line">111101122</integer>
+    <integer name="Bdim71">442266330</integer>
+    <integer name="Bdim71Line">111016011</integer>
+    <integer name="Bdim72">442233110</integer>
+    <integer name="Bdim72Line">1111009011</integer>
+
+    <integer name="Bmmaj7Num">7</integer>
+    <integer name="Bmmaj70">551133220</integer>
+    <integer name="Bmmaj70Line">1111102011</integer>
+    <integer name="Bmmaj71">153322440</integer>
+    <integer name="Bmmaj71Line">1111102112</integer>
+    <integer name="Bmmaj72">116633220</integer>
+    <integer name="Bmmaj72Line">1110016111</integer>
+    <integer name="Bmmaj73">663344550</integer>
+    <integer name="Bmmaj73Line">11117012</integer>
+    <integer name="Bmmaj74">164455990</integer>
+    <integer name="Bmmaj74Line">111117120</integer>
+    <integer name="Bmmaj75">441133220</integer>
+    <integer name="Bmmaj75Line">1111009122</integer>
+    <integer name="Bmmaj76">134499551</integer>
+    <integer name="Bmmaj76Line">111101103</integer>
+
+    <integer name="B7b5Num">5</integer>
+    <integer name="B7b50">154422990</integer>
+    <integer name="B7b50Line">111102120</integer>
+    <integer name="B7b51">664455330</integer>
+    <integer name="B7b51Line">11117011</integer>
+    <integer name="B7b52">226644330</integer>
+    <integer name="B7b52Line">111016112</integer>
+    <integer name="B7b53">443322110</integer>
+    <integer name="B7b53Line">1111009112</integer>
+    <integer name="B7b54">154422991</integer>
+    <integer name="B7b54Line">111104120</integer>
+
+    <integer name="B7s5Num">2</integer>
+    <integer name="B7s50">445533110</integer>
+    <integer name="B7s50Line">1111101112</integer>
+    <integer name="B7s51">143322990</integer>
+    <integer name="B7s51Line">1111107110</integer>
+
+    <integer name="B7b9Num">2</integer>
+    <integer name="B7b90">245533110</integer>
+    <integer name="B7b90Line">1111101111</integer>
+    <integer name="B7b91">135599220</integer>
+    <integer name="B7b91Line">1110105102</integer>
+
+    <integer name="Bm7b5Num">4</integer>
+    <integer name="Bm7b50">553344220</integer>
+    <integer name="Bm7b50Line">111102011</integer>
+    <integer name="Bm7b51">226644330</integer>
+    <integer name="Bm7b51Line">111016111</integer>
+    <integer name="Bm7b52">441399990</integer>
+    <integer name="Bm7b52Line">1111009100</integer>
+    <integer name="Bm7b53">553344221</integer>
+    <integer name="Bm7b53Line">111104011</integer>
+
+    <integer name="B9Num">5</integer>
+    <integer name="B90">445513990</integer>
+    <integer name="B90Line">1111101110</integer>
+    <integer name="B91">166644220</integer>
+    <integer name="B91Line">111116111</integer>
+    <integer name="B92">163355110</integer>
+    <integer name="B92Line">1111117122</integer>
+    <integer name="B93">445513991</integer>
+    <integer name="B93Line">1111103110</integer>
+    <integer name="B94">166644221</integer>
+    <integer name="B94Line">111118111</integer>
+
+    <integer name="Bm9Num">3</integer>
+    <integer name="Bm90">559913990</integer>
+    <integer name="Bm90Line">1111102000</integer>
+    <integer name="Bm91">169955110</integer>
+    <integer name="Bm91Line">1111117022</integer>
+    <integer name="Bm92">445513991</integer>
+    <integer name="Bm92Line">1111102220</integer>
+
+    <integer name="Badd9Num">2</integer>
+    <integer name="Badd90">223344110</integer>
+    <integer name="Badd90Line">1111007122</integer>
+    <integer name="Badd91">134455221</integer>
+    <integer name="Badd91Line">1111101233</integer>
+
+    <integer name="B6p9Num">2</integer>
+    <integer name="B6p90">345522110</integer>
+    <integer name="B6p90Line">1111101111</integer>
+    <integer name="B6p91">356622110</integer>
+    <integer name="B6p91Line">1111116111</integer>
+
+    <integer name="B11Num">2</integer>
+    <integer name="B110">159922990</integer>
+    <integer name="B110Line">1111102020</integer>
+    <integer name="B111">163399990</integer>
+    <integer name="B111Line">1111117100</integer>
+
+    <integer name="Bm11Num">2</integer>
+    <integer name="Bm110">152299990</integer>
+    <integer name="Bm110Line">1111102100</integer>
+    <integer name="Bm111">126644330</integer>
+    <integer name="Bm111Line">1111015222</integer>
+
+    <integer name="B13Num">2</integer>
+    <integer name="B130">154422110</integer>
+    <integer name="B130Line">1111102222</integer>
+    <integer name="B131">163355220</integer>
+    <integer name="B131Line">1111117122</integer>
+
+    <integer name="B5Num">3</integer>
+    <integer name="B50">559944990</integer>
+    <integer name="B50Line">1102020</integer>
+    <integer name="B51">669955990</integer>
+    <integer name="B51Line">117020</integer>
+    <integer name="B52">449933990</integer>
+    <integer name="B52Line">11009020</integer>
+
+    <integer name="Bsus2Num">2</integer>
+    <integer name="Bsus20">159944330</integer>
+    <integer name="Bsus20Line">1111102022</integer>
+    <integer name="Bsus21">159944331</integer>
+    <integer name="Bsus21Line">1111104022</integer>
+
+    <integer name="Bsus4Num">2</integer>
+    <integer name="Bsus40">154433220</integer>
+    <integer name="Bsus40Line">1111102223</integer>
+    <integer name="Bsus41">169944330</integer>
+    <integer name="Bsus41Line">1111117022</integer>
+
+    <integer name="BaugNum">2</integer>
+    <integer name="Baug0">445599990</integer>
+    <integer name="Baug0Line">111101100</integer>
+    <integer name="Baug1">113322990</integer>
+    <integer name="Baug1Line">1110003110</integer>
+
+    <integer name="BdimNum">2</integer>
+    <integer name="Bdim0">554422330</integer>
+    <integer name="Bdim0Line">111102112</integer>
+    <integer name="Bdim1">119922330</integer>
+    <integer name="Bdim1Line">1110001023</integer>
+</resources>

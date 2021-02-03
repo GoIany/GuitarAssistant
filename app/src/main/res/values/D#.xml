@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="DsMajorNum">9</integer>
+    <integer name="DsMajor0">143311220</integer>
+    <integer name="DsMajor0Line">1111001223</integer>
+    <integer name="DsMajor1">132244550</integer>
+    <integer name="DsMajor1Line">1111103123</integer>
+    <integer name="DsMajor2">154433220</integer>
+    <integer name="DsMajor2Line">1111106222</integer>
+    <integer name="DsMajor3">145566990</integer>
+    <integer name="DsMajor3Line">111118230</integer>
+    <integer name="DsMajor4">149999110</integer>
+    <integer name="DsMajor4Line">1111008003</integer>
+    <integer name="DsMajor5">165566110</integer>
+    <integer name="DsMajor5Line">1111118233</integer>
+    <integer name="DsMajor6">152233441</integer>
+    <integer name="DsMajor6Line">111100123</integer>
+    <integer name="DsMajor7">163355441</integer>
+    <integer name="DsMajor7Line">1111111122</integer>
+    <integer name="DsMajor8">143311221</integer>
+    <integer name="DsMajor8Line">1111003223</integer>
+
+    <integer name="DsmNum">6</integer>
+    <integer name="Dsm0">141133220</integer>
+    <integer name="Dsm0Line">1111001123</integer>
+    <integer name="Dsm1">334422550</integer>
+    <integer name="Dsm1Line">111103113</integer>
+    <integer name="Dsm2">152244330</integer>
+    <integer name="Dsm2Line">1111106122</integer>
+    <integer name="Dsm3">345599660</integer>
+    <integer name="Dsm3Line">11118103</integer>
+    <integer name="Dsm4">169955441</integer>
+    <integer name="Dsm4Line">1111111022</integer>
+    <integer name="Dsm5">141133221</integer>
+    <integer name="Dsm5Line">1111003123</integer>
+
+    <integer name="Ds6Num">5</integer>
+    <integer name="Ds60">149933110</integer>
+    <integer name="Ds60Line">1111001022</integer>
+    <integer name="Ds61">224433550</integer>
+    <integer name="Ds61Line">111104112</integer>
+    <integer name="Ds62">159914990</integer>
+    <integer name="Ds62Line">1111106020</integer>
+    <integer name="Ds63">446622331</integer>
+    <integer name="Ds63Line">111010112</integer>
+    <integer name="Ds64">149933111</integer>
+    <integer name="Ds64Line">1111003022</integer>
+
+    <integer name="Dsm6Num">4</integer>
+    <integer name="Dsm60">141133990</integer>
+    <integer name="Dsm60Line">1111001120</integer>
+    <integer name="Dsm61">143355110</integer>
+    <integer name="Dsm61Line">1111104122</integer>
+    <integer name="Dsm62">446613991</integer>
+    <integer name="Dsm62Line">1111010110</integer>
+    <integer name="Dsm63">141133991</integer>
+    <integer name="Dsm63Line">1111003120</integer>
+
+    <integer name="Dsmb6Num">7</integer>
+    <integer name="Dsmb60">441133990</integer>
+    <integer name="Dsmb60Line">1111001120</integer>
+    <integer name="Dsmb61">149955110</integer>
+    <integer name="Dsmb61Line">1111104022</integer>
+    <integer name="Dsmb62">152233440</integer>
+    <integer name="Dsmb62Line">1111106123</integer>
+    <integer name="Dsmb63">166633220</integer>
+    <integer name="Dsmb63Line">111119222</integer>
+    <integer name="Dsmb64">162255441</integer>
+    <integer name="Dsmb64Line">1111111122</integer>
+    <integer name="Dsmb65">169944551</integer>
+    <integer name="Dsmb65Line">1111111023</integer>
+    <integer name="Dsmb66">224411331</integer>
+    <integer name="Dsmb66Line">1111002123</integer>
+
+    <integer name="Ds7Num">7</integer>
+    <integer name="Ds70">142233110</integer>
+    <integer name="Ds70Line">1111001122</integer>
+    <integer name="Ds71">224455330</integer>
+    <integer name="Ds71Line">111104122</integer>
+    <integer name="Ds72">159944220</integer>
+    <integer name="Ds72Line">1111106022</integer>
+    <integer name="Ds73">141199990</integer>
+    <integer name="Ds73Line">1111008100</integer>
+    <integer name="Ds74">556644331</integer>
+    <integer name="Ds74Line">11110112</integer>
+    <integer name="Ds75">163355991</integer>
+    <integer name="Ds75Line">1111111120</integer>
+    <integer name="Ds76">142233111</integer>
+    <integer name="Ds76Line">1111003122</integer>
+
+    <integer name="Dsm7Num">6</integer>
+    <integer name="Dsm70">442211330</integer>
+    <integer name="Dsm70Line">1111001112</integer>
+    <integer name="Dsm71">445533220</integer>
+    <integer name="Dsm71Line">111104223</integer>
+    <integer name="Dsm72">152244990</integer>
+    <integer name="Dsm72Line">1111106120</integer>
+    <integer name="Dsm73">224433110</integer>
+    <integer name="Dsm73Line">1111007112</integer>
+    <integer name="Dsm74">169955991</integer>
+    <integer name="Dsm74Line">1111111020</integer>
+    <integer name="Dsm75">442211331</integer>
+    <integer name="Dsm75Line">1111003112</integer>
+
+    <integer name="Dsmaj7Num">6</integer>
+    <integer name="Dsmaj70">149913990</integer>
+    <integer name="Dsmaj70Line">1111001020</integer>
+    <integer name="Dsmaj71">139944550</integer>
+    <integer name="Dsmaj71Line">1111103023</integer>
+    <integer name="Dsmaj72">153344220</integer>
+    <integer name="Dsmaj72Line">1111106122</integer>
+    <integer name="Dsmaj73">662244331</integer>
+    <integer name="Dsmaj73Line">111011011</integer>
+    <integer name="Dsmaj74">112233441</integer>
+    <integer name="Dsmaj74Line">1111000123</integer>
+    <integer name="Dsmaj75">149913991</integer>
+    <integer name="Dsmaj75Line">1111003020</integer>
+
+    <integer name="Dsmaj7p9Num">1</integer>
+    <integer name="Dsmaj7p90">441199220</integer>
+    <integer name="Dsmaj7p90Line">1111001002</integer>
+
+    <integer name="Dsdim7Num">2</integer>
+    <integer name="Dsdim70">442233110</integer>
+    <integer name="Dsdim70Line">1111001011</integer>
+    <integer name="Dsdim71">335544220</integer>
+    <integer name="Dsdim71Line">111105122</integer>
+
+    <integer name="Dsmmaj7Num">6</integer>
+    <integer name="Dsmmaj70">441133220</integer>
+    <integer name="Dsmmaj70Line">1111001122</integer>
+    <integer name="Dsmmaj71">134499550</integer>
+    <integer name="Dsmmaj71Line">111103103</integer>
+    <integer name="Dsmmaj72">153322440</integer>
+    <integer name="Dsmmaj72Line">1111106112</integer>
+    <integer name="Dsmmaj73">116633221</integer>
+    <integer name="Dsmmaj73Line">1110010111</integer>
+    <integer name="Dsmmaj74">663344551</integer>
+    <integer name="Dsmmaj74Line">11111012</integer>
+    <integer name="Dsmmaj75">164455991</integer>
+    <integer name="Dsmmaj75Line">111111120</integer>
+
+    <integer name="Ds7b5Num">4</integer>
+    <integer name="Ds7b50">443322110</integer>
+    <integer name="Ds7b50Line">1111001112</integer>
+    <integer name="Ds7b51">154422990</integer>
+    <integer name="Ds7b51Line">111106120</integer>
+    <integer name="Ds7b52">664455331</integer>
+    <integer name="Ds7b52Line">11111011</integer>
+    <integer name="Ds7b53">443322111</integer>
+    <integer name="Ds7b53Line">111103112</integer>
+
+    <integer name="Ds7s5Num">2</integer>
+    <integer name="Ds7s50">442211330</integer>
+    <integer name="Ds7s50Line">1111001123</integer>
+    <integer name="Ds7s51">143322991</integer>
+    <integer name="Ds7s51Line">1111001110</integer>
+
+    <integer name="Ds7b9Num">2</integer>
+    <integer name="Ds7b90">449922990</integer>
+    <integer name="Ds7b90Line">1111001010</integer>
+    <integer name="Ds7b91">442233111</integer>
+    <integer name="Ds7b91Line">1111011011</integer>
+
+    <integer name="Dsm7b5Num">4</integer>
+    <integer name="Dsm7b50">441399990</integer>
+    <integer name="Dsm7b50Line">1111001100</integer>
+    <integer name="Dsm7b51">553344220</integer>
+    <integer name="Dsm7b51Line">111106011</integer>
+    <integer name="Dsm7b52">226644331</integer>
+    <integer name="Dsm7b52Line">111010111</integer>
+    <integer name="Dsm7b53">441399991</integer>
+    <integer name="Dsm7b53Line">1111003100</integer>
+
+    <integer name="Ds9Num">4</integer>
+    <integer name="Ds90">445513990</integer>
+    <integer name="Ds90Line">1111105110</integer>
+    <integer name="Ds91">166644221</integer>
+    <integer name="Ds91Line">111110111</integer>
+    <integer name="Ds92">163355111</integer>
+    <integer name="Ds92Line">1111111122</integer>
+    <integer name="Ds93">445513991</integer>
+    <integer name="Ds93Line">1111107110</integer>
+
+    <integer name="Dsm9Num">2</integer>
+    <integer name="Dsm90">445513990</integer>
+    <integer name="Dsm90Line">1111104220</integer>
+    <integer name="Dsm91">169955111</integer>
+    <integer name="Dsm91Line">1111111022</integer>
+
+    <integer name="Dsadd9Num">1</integer>
+    <integer name="Dsadd90">134455220</integer>
+    <integer name="Dsadd90Line">1111103233</integer>
+
+    <integer name="Ds6p9Num">2</integer>
+    <integer name="Ds6p90">345522110</integer>
+    <integer name="Ds6p90Line">1111105111</integer>
+    <integer name="Ds6p91">156622111</integer>
+    <integer name="Ds6p91Line">1111110111</integer>
+
+    <integer name="Ds11Num">2</integer>
+    <integer name="Ds110">159922990</integer>
+    <integer name="Ds110Line">1111106020</integer>
+    <integer name="Ds111">159999990</integer>
+    <integer name="Ds111Line">1111106000</integer>
+
+    <integer name="Dsm11Num">2</integer>
+    <integer name="Dsm110">152299990</integer>
+    <integer name="Dsm110Line">1111106100</integer>
+    <integer name="Dsm111">126644330</integer>
+    <integer name="Dsm111Line">1111019222</integer>
+
+    <integer name="Ds13Num">2</integer>
+    <integer name="Ds130">154422110</integer>
+    <integer name="Ds130Line">1111106222</integer>
+    <integer name="Ds131">159912990</integer>
+    <integer name="Ds131Line">1111106020</integer>
+
+    <integer name="Ds5Num">3</integer>
+    <integer name="Ds50">449933990</integer>
+    <integer name="Ds50Line">11001020</integer>
+    <integer name="Ds51">559944990</integer>
+    <integer name="Ds51Line">1106020</integer>
+    <integer name="Ds52">669955991</integer>
+    <integer name="Ds52Line">111020</integer>
+
+    <integer name="Dssus2Num">2</integer>
+    <integer name="Dssus20">149933220</integer>
+    <integer name="Dssus20Line">1111001023</integer>
+    <integer name="Dssus21">359999660</integer>
+    <integer name="Dssus21Line">11118003</integer>
+
+    <integer name="Dssus4Num">2</integer>
+    <integer name="Dssus40">449933120</integer>
+    <integer name="Dssus40Line">1111001023</integer>
+    <integer name="Dssus41">169944331</integer>
+    <integer name="Dssus41Line">1111111022</integer>
+
+    <integer name="DsaugNum">2</integer>
+    <integer name="Dsaug0">449999110</integer>
+    <integer name="Dsaug0Line">1111001002</integer>
+    <integer name="Dsaug1">332244550</integer>
+    <integer name="Dsaug1Line">111104012</integer>
+
+    <integer name="DsdimNum">2</integer>
+    <integer name="Dsdim0">554422330</integer>
+    <integer name="Dsdim0Line">111106112</integer>
+    <integer name="Dsdim1">442233110</integer>
+    <integer name="Dsdim1Line">1111004011</integer>
+</resources>

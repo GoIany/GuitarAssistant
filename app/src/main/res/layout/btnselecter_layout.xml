@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btnChordSelecter"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/btnSlectedChord"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:text="C Major"
+            android:textColor="#000000"
+            android:textSize="36sp" />
+
+        <TableLayout
+            android:id="@+id/ChordSelectTbl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:shrinkColumns="*"
+            android:stretchColumns="*">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/c5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_num_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="5" />
+
+                <Button
+                    android:id="@+id/c6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_num_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="6" />
+
+                <Button
+                    android:id="@+id/c7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_num_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="7" />
+
+                <Button
+                    android:id="@+id/Maj"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_right_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="maj"
+                    android:textAllCaps="false" />
+
+                <Button
+                    android:id="@+id/m"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_right_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="m"
+                    android:textAllCaps="false" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/c9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_num_round"
+                    android:text="9" />
+
+                <Button
+                    android:id="@+id/c11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_num_round"
+                    android:text="11" />
+
+                <Button
+                    android:id="@+id/c13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_num_round"
+                    android:text="13" />
+
+                <Button
+                    android:id="@+id/aug"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_right_round"
+                    android:text="aug"
+                    android:textAllCaps="false" />
+
+                <Button
+                    android:id="@+id/dim"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_right_round"
+                    android:text="dim"
+                    android:textAllCaps="false" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/C"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_root_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="C" />
+
+                <Button
+                    android:id="@+id/D"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_root_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="D" />
+
+                <Button
+                    android:id="@+id/E"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_root_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="E" />
+
+                <Button
+                    android:id="@+id/add9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_right_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="add9"
+                    android:textAllCaps="false" />
+
+                <Button
+                    android:id="@+id/sus24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_right_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="sus2/4"
+                    android:textAllCaps="false" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <Button
+                    android:id="@+id/F"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_root_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="F" />
+
+                <Button
+                    android:id="@+id/G"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_root_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="G" />
+
+                <Button
+                    android:id="@+id/A"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:background="@drawable/btn_root_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="A" />
+
+                <Button
+                    android:id="@+id/B"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:layout_span="1"
+                    android:background="@drawable/btn_root_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="B"
+                    android:textAllCaps="false" />
+
+                <Button
+                    android:id="@+id/bs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="2dp"
+                    android:layout_span="1"
+                    android:background="@drawable/btn_right_round"
+                    android:hapticFeedbackEnabled="false"
+                    android:text="b/#"
+                    android:textAllCaps="false" />
+
+            </TableRow>
+        </TableLayout>
+</LinearLayout>

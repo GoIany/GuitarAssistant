@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="GMajorNum">8</integer>
+    <integer name="GMajor0">556611990</integer>
+    <integer name="GMajor0Line">1111112110</integer>
+    <integer name="GMajor1">152233440</integer>
+    <integer name="GMajor1Line">111102123</integer>
+    <integer name="GMajor2">123344990</integer>
+    <integer name="GMajor2Line">1111003120</integer>
+    <integer name="GMajor3">163355440</integer>
+    <integer name="GMajor3Line">1111113122</integer>
+    <integer name="GMajor4">143311220</integer>
+    <integer name="GMajor4Line">1111005223</integer>
+    <integer name="GMajor5">132244550</integer>
+    <integer name="GMajor5Line">1111107123</integer>
+    <integer name="GMajor6">154433221</integer>
+    <integer name="GMajor6Line">1111100222</integer>
+    <integer name="GMajor7">165566111</integer>
+    <integer name="GMajor7Line">1111112233</integer>
+
+    <integer name="GmNum">6</integer>
+    <integer name="Gm0">556622110</integer>
+    <integer name="Gm0Line">1111111222</integer>
+    <integer name="Gm1">169955440</integer>
+    <integer name="Gm1Line">1111113022</integer>
+    <integer name="Gm2">141133220</integer>
+    <integer name="Gm2Line">1111005123</integer>
+    <integer name="Gm3">334422550</integer>
+    <integer name="Gm3Line">111107113</integer>
+    <integer name="Gm4">152244331</integer>
+    <integer name="Gm4Line">1111100122</integer>
+    <integer name="Gm5">345566991</integer>
+    <integer name="Gm5Line">11112130</integer>
+
+    <integer name="G6Num">7</integer>
+    <integer name="G60">995566990</integer>
+    <integer name="G60Line">1111110210</integer>
+    <integer name="G61">446622330</integer>
+    <integer name="G61Line">111012112</integer>
+    <integer name="G62">149933110</integer>
+    <integer name="G62Line">1111005022</integer>
+    <integer name="G63">224433550</integer>
+    <integer name="G63Line">111108112</integer>
+    <integer name="G64">159914991</integer>
+    <integer name="G64Line">1111100020</integer>
+    <integer name="G65">149955661</integer>
+    <integer name="G65Line">1111112023</integer>
+    <integer name="G66">446622331</integer>
+    <integer name="G66Line">111014113</integer>
+
+    <integer name="Gm6Num">5</integer>
+    <integer name="Gm60">446613990</integer>
+    <integer name="Gm60Line">1111012110</integer>
+    <integer name="Gm61">141133990</integer>
+    <integer name="Gm61Line">1111005120</integer>
+    <integer name="Gm62">143355110</integer>
+    <integer name="Gm62Line">1111108122</integer>
+    <integer name="Gm63">446613991</integer>
+    <integer name="Gm63Line">1111014110</integer>
+    <integer name="Gm64">141133991</integer>
+    <integer name="Gm64Line">1111007120</integer>
+
+    <integer name="Gmb6Num">7</integer>
+    <integer name="Gmb60">166633220</integer>
+    <integer name="Gmb60Line">1111101222</integer>
+    <integer name="Gmb61">162255440</integer>
+    <integer name="Gmb61Line">1111113122</integer>
+    <integer name="Gmb62">169944550</integer>
+    <integer name="Gmb62Line">1111113023</integer>
+    <integer name="Gmb63">224411330</integer>
+    <integer name="Gmb63Line">1111004123</integer>
+    <integer name="Gmb64">149955110</integer>
+    <integer name="Gmb64Line">1111108022</integer>
+    <integer name="Gmb65">152233441</integer>
+    <integer name="Gmb65Line">1111100123</integer>
+    <integer name="Gmb66">166633221</integer>
+    <integer name="Gmb66Line">111113222</integer>
+
+    <integer name="G7Num">7</integer>
+    <integer name="G70">115566990</integer>
+    <integer name="G70Line">1111111120</integer>
+    <integer name="G71">556644330</integer>
+    <integer name="G71Line">11112112</integer>
+    <integer name="G72">163355990</integer>
+    <integer name="G72Line">1111113120</integer>
+    <integer name="G73">142233110</integer>
+    <integer name="G73Line">1111005122</integer>
+    <integer name="G74">224455330</integer>
+    <integer name="G74Line">111108122</integer>
+    <integer name="G75">159944221</integer>
+    <integer name="G75Line">1111100022</integer>
+    <integer name="G76">141199991</integer>
+    <integer name="G76Line">1111002100</integer>
+
+    <integer name="Gm7Num">7</integer>
+    <integer name="Gm70">556644220</integer>
+    <integer name="Gm70Line">111111222</integer>
+    <integer name="Gm71">169955990</integer>
+    <integer name="Gm71Line">1111113020</integer>
+    <integer name="Gm72">442211330</integer>
+    <integer name="Gm72Line">1111005112</integer>
+    <integer name="Gm73">445533220</integer>
+    <integer name="Gm73Line">111108223</integer>
+    <integer name="Gm74">152244991</integer>
+    <integer name="Gm74Line">1111100120</integer>
+    <integer name="Gm75">224433111</integer>
+    <integer name="Gm75Line">1111001112</integer>
+    <integer name="Gm76">335544221</integer>
+    <integer name="Gm76Line">111102133</integer>
+
+    <integer name="Gmaj7Num">7</integer>
+    <integer name="Gmaj70">115566990</integer>
+    <integer name="Gmaj70Line">1111112010</integer>
+    <integer name="Gmaj71">662244330</integer>
+    <integer name="Gmaj71Line">111013011</integer>
+    <integer name="Gmaj72">112233440</integer>
+    <integer name="Gmaj72Line">1111002123</integer>
+    <integer name="Gmaj73">149913990</integer>
+    <integer name="Gmaj73Line">1111005020</integer>
+    <integer name="Gmaj74">139944550</integer>
+    <integer name="Gmaj74Line">1111107023</integer>
+    <integer name="Gmaj75">153344221</integer>
+    <integer name="Gmaj75Line">1111100122</integer>
+    <integer name="Gmaj76">662244331</integer>
+    <integer name="Gmaj76Line">111015011</integer>
+
+    <integer name="Gmaj7p9Num">1</integer>
+    <integer name="Gmaj7p9">331166990</integer>
+    <integer name="Gmaj7p9Line">1111012010</integer>
+
+    <integer name="Gdim7Num">3</integer>
+    <integer name="Gdim70">442266330</integer>
+    <integer name="Gdim70Line">111012011</integer>
+    <integer name="Gdim71">442233110</integer>
+    <integer name="Gdim71Line">1111005011</integer>
+    <integer name="Gdim72">335544220</integer>
+    <integer name="Gdim72Line">111109122</integer>
+
+    <integer name="Gmmaj7Num">7</integer>
+    <integer name="Gmmaj70">116633220</integer>
+    <integer name="Gmmaj70Line">1110012111</integer>
+    <integer name="Gmmaj71">663344550</integer>
+    <integer name="Gmmaj71Line">11113012</integer>
+    <integer name="Gmmaj72">164455990</integer>
+    <integer name="Gmmaj72Line">111113120</integer>
+    <integer name="Gmmaj73">441133220</integer>
+    <integer name="Gmmaj73Line">1111005122</integer>
+    <integer name="Gmmaj74">134499550</integer>
+    <integer name="Gmmaj74Line">111107103</integer>
+    <integer name="Gmmaj75">153322441</integer>
+    <integer name="Gmmaj75Line">1111100112</integer>
+    <integer name="Gmmaj76">116633221</integer>
+    <integer name="Gmmaj76Line">1110014111</integer>
+
+    <integer name="G7b5Num">5</integer>
+    <integer name="G7b50">226644330</integer>
+    <integer name="G7b50Line">111012112</integer>
+    <integer name="G7b51">664455330</integer>
+    <integer name="G7b51Line">11113011</integer>
+    <integer name="G7b52">443322110</integer>
+    <integer name="G7b52Line">1111005112</integer>
+    <integer name="G7b53">154422991</integer>
+    <integer name="G7b53Line">111100120</integer>
+    <integer name="G7b54">226644331</integer>
+    <integer name="G7b54Line">111014112</integer>
+
+    <integer name="G7s5Num">2</integer>
+    <integer name="G7s50">664433220</integer>
+    <integer name="G7s50Line">111013011</integer>
+    <integer name="G7s51">154499990</integer>
+    <integer name="G7s51Line">111108100</integer>
+
+    <integer name="G7b9Num">2</integer>
+    <integer name="G7b90">331155660</integer>
+    <integer name="G7b90Line">1111111012</integer>
+    <integer name="G7b91">442233110</integer>
+    <integer name="G7b91Line">1111003011</integer>
+
+    <integer name="Gm7b5Num">4</integer>
+    <integer name="Gm7b50">226644330</integer>
+    <integer name="Gm7b50Line">111012111</integer>
+    <integer name="Gm7b51">441399990</integer>
+    <integer name="Gm7b51Line">1111005100</integer>
+    <integer name="Gm7b52">553344221</integer>
+    <integer name="Gm7b52Line">111100011</integer>
+    <integer name="Gm7b53">226644331</integer>
+    <integer name="Gm7b53Line">111014111</integer>
+
+    <integer name="G9Num">6</integer>
+    <integer name="G90">113366990</integer>
+    <integer name="G90Line">1111011120</integer>
+    <integer name="G91">166644220</integer>
+    <integer name="G91Line">111112111</integer>
+    <integer name="G92">163355110</integer>
+    <integer name="G92Line">1111113122</integer>
+    <integer name="G93">445513990</integer>
+    <integer name="G93Line">1111109110</integer>
+    <integer name="G94">166644221</integer>
+    <integer name="G94Line">111114111</integer>
+    <integer name="G95">163355111</integer>
+    <integer name="G95Line">1111115122</integer>
+
+    <integer name="Gm9Num">2</integer>
+    <integer name="Gm90">169955110</integer>
+    <integer name="Gm90Line">1111113022</integer>
+    <integer name="Gm91">445513990</integer>
+    <integer name="Gm91Line">1111108220</integer>
+
+    <integer name="Gadd9Num">4</integer>
+    <integer name="Gadd90">996611990</integer>
+    <integer name="Gadd90Line">1111110300</integer>
+    <integer name="Gadd91">223344110</integer>
+    <integer name="Gadd91Line">1111003122</integer>
+    <integer name="Gadd92">134455220</integer>
+    <integer name="Gadd92Line">1111107233</integer>
+    <integer name="Gadd93">159966111</integer>
+    <integer name="Gadd93Line">1111112033</integer>
+
+    <integer name="G6p9Num">4</integer>
+    <integer name="G6p90">553366990</integer>
+    <integer name="G6p90Line">1111112010</integer>
+    <integer name="G6p91">356622110</integer>
+    <integer name="G6p91Line">1111112111</integer>
+    <integer name="G6p92">345522110</integer>
+    <integer name="G6p92Line">1111109111</integer>
+    <integer name="G6p93">145533661</integer>
+    <integer name="G6p93Line">1111112223</integer>
+
+    <integer name="G11Num">3</integer>
+    <integer name="G110">119966550</integer>
+    <integer name="G110Line">1111111022</integer>
+    <integer name="G111">163399990</integer>
+    <integer name="G111Line">1111113100</integer>
+    <integer name="G112">159922991</integer>
+    <integer name="G112Line">1111100020</integer>
+
+    <integer name="Gm11Num">2</integer>
+    <integer name="Gm110">126644330</integer>
+    <integer name="Gm110Line">1111011222</integer>
+    <integer name="Gm111">152299991</integer>
+    <integer name="Gm111Line">1111100100</integer>
+
+    <integer name="G13Num">2</integer>
+    <integer name="G130">163355220</integer>
+    <integer name="G130Line">1111113122</integer>
+    <integer name="G131">154422111</integer>
+    <integer name="G131Line">1111100222</integer>
+
+    <integer name="G5Num">3</integer>
+    <integer name="G50">669955990</integer>
+    <integer name="G50Line">113020</integer>
+    <integer name="G51">449933990</integer>
+    <integer name="G51Line">11005020</integer>
+    <integer name="G52">559944991</integer>
+    <integer name="G52Line">1100020</integer>
+
+    <integer name="Gsus2Num">4</integer>
+    <integer name="Gsus20">669922110</integer>
+    <integer name="Gsus20Line">1111113000</integer>
+    <integer name="Gsus21">149933220</integer>
+    <integer name="Gsus21Line">1111005023</integer>
+    <integer name="Gsus22">159944331</integer>
+    <integer name="Gsus22Line">1111100022</integer>
+    <integer name="Gsus23">356622111</integer>
+    <integer name="Gsus23Line">1111112333</integer>
+
+    <integer name="Gsus4Num">3</integer>
+    <integer name="Gsus40">665522110</integer>
+    <integer name="Gsus40Line">1111113000</integer>
+    <integer name="Gsus41">165544330</integer>
+    <integer name="Gsus41Line">1111113222</integer>
+    <integer name="Gsus42">129944330</integer>
+    <integer name="Gsus42Line">1111003022</integer>
+
+    <integer name="GaugNum">2</integer>
+    <integer name="Gaug0">113322440</integer>
+    <integer name="Gaug0Line">1111003112</integer>
+    <integer name="Gaug1">234499110</integer>
+    <integer name="Gaug1Line">1111004103</integer>
+
+    <integer name="GdimNum">1</integer>
+    <integer name="Gdim0">165544990</integer>
+    <integer name="Gdim0Line">11113120</integer>
+</resources>

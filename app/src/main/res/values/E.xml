@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="EMajorNum">9</integer>
+    <integer name="EMajor0">335544990</integer>
+    <integer name="EMajor0Line">1111111110</integer>
+    <integer name="EMajor1">143311220</integer>
+    <integer name="EMajor1Line">1111002223</integer>
+    <integer name="EMajor2">132244550</integer>
+    <integer name="EMajor2Line">1111104123</integer>
+    <integer name="EMajor3">154433220</integer>
+    <integer name="EMajor3Line">1111107222</integer>
+    <integer name="EMajor4">145566990</integer>
+    <integer name="EMajor4Line">111119230</integer>
+    <integer name="EMajor5">149999110</integer>
+    <integer name="EMajor5Line">1111009003</integer>
+    <integer name="EMajor6">165566110</integer>
+    <integer name="EMajor6Line">1111119233</integer>
+    <integer name="EMajor7">152233441</integer>
+    <integer name="EMajor7Line">111101123</integer>
+    <integer name="EMajor8">163355441</integer>
+    <integer name="EMajor8Line">1111112122</integer>
+
+    <integer name="EmNum">6</integer>
+    <integer name="Em0">995544990</integer>
+    <integer name="Em0Line">1111110200</integer>
+    <integer name="Em1">141133220</integer>
+    <integer name="Em1Line">1111002123</integer>
+    <integer name="Em2">334422550</integer>
+    <integer name="Em2Line">111104113</integer>
+    <integer name="Em3">152244330</integer>
+    <integer name="Em3Line">1111107122</integer>
+    <integer name="Em4">345599660</integer>
+    <integer name="Em4Line">11119103</integer>
+    <integer name="Em5">169955441</integer>
+    <integer name="Em5Line">1111112022</integer>
+
+    <integer name="E6Num">5</integer>
+    <integer name="E60">335544220</integer>
+    <integer name="E60Line">1111111111</integer>
+    <integer name="E61">149933110</integer>
+    <integer name="E61Line">1111002022</integer>
+    <integer name="E62">224433550</integer>
+    <integer name="E62Line">111105112</integer>
+    <integer name="E63">159914990</integer>
+    <integer name="E63Line">1111107020</integer>
+    <integer name="E64">446622331</integer>
+    <integer name="E64Line">111011112</integer>
+
+    <integer name="Em6Num">5</integer>
+    <integer name="Em60">554422990</integer>
+    <integer name="Em60Line">1111112000</integer>
+    <integer name="Em61">141133990</integer>
+    <integer name="Em61Line">1111002120</integer>
+    <integer name="Em62">143355110</integer>
+    <integer name="Em62Line">1111105122</integer>
+    <integer name="Em63">446613991</integer>
+    <integer name="Em63Line">1111011110</integer>
+    <integer name="Em64">141133991</integer>
+    <integer name="Em64Line">1111004120</integer>
+
+    <integer name="Emb6Num">8</integer>
+    <integer name="Emb60">225544990</integer>
+    <integer name="Emb60Line">1111111110</integer>
+    <integer name="Emb61">445599990</integer>
+    <integer name="Emb61Line">1111112100</integer>
+    <integer name="Emb62">224411330</integer>
+    <integer name="Emb62Line">1111001123</integer>
+    <integer name="Emb63">149955110</integer>
+    <integer name="Emb63Line">1111105022</integer>
+    <integer name="Emb64">152233440</integer>
+    <integer name="Emb64Line">1111107123</integer>
+    <integer name="Emb65">166633221</integer>
+    <integer name="Emb65Line">111110222</integer>
+    <integer name="Emb66">162255441</integer>
+    <integer name="Emb66Line">1111112122</integer>
+    <integer name="Emb67">169944551</integer>
+    <integer name="Emb67Line">1111112023</integer>
+
+    <integer name="E7Num">7</integer>
+    <integer name="E70">335599990</integer>
+    <integer name="E70Line">111111110</integer>
+    <integer name="E71">142233110</integer>
+    <integer name="E71Line">1111002122</integer>
+    <integer name="E72">224455330</integer>
+    <integer name="E72Line">111105122</integer>
+    <integer name="E73">159944220</integer>
+    <integer name="E73Line">1111107022</integer>
+    <integer name="E74">141199990</integer>
+    <integer name="E74Line">1111009100</integer>
+    <integer name="E75">556644331</integer>
+    <integer name="E75Line">11111112</integer>
+    <integer name="E76">163355991</integer>
+    <integer name="E76Line">1111112120</integer>
+
+    <integer name="Em7Num">6</integer>
+    <integer name="Em70">995544220</integer>
+    <integer name="Em70Line">1111110201</integer>
+    <integer name="Em71">442211330</integer>
+    <integer name="Em71Line">1111002112</integer>
+    <integer name="Em72">445533220</integer>
+    <integer name="Em72Line">111105223</integer>
+    <integer name="Em73">152244990</integer>
+    <integer name="Em73Line">1111107120</integer>
+    <integer name="Em74">224433110</integer>
+    <integer name="Em74Line">1111008112</integer>
+    <integer name="Em75">169955990</integer>
+    <integer name="Em75Line">1111112020</integer>
+
+    <integer name="Emaj7Num">7</integer>
+    <integer name="Emaj70">443355990</integer>
+    <integer name="Emaj70Line">1111111010</integer>
+    <integer name="Emaj71">149913990</integer>
+    <integer name="Emaj71Line">1111002020</integer>
+    <integer name="Emaj72">139944550</integer>
+    <integer name="Emaj72Line">1111104023</integer>
+    <integer name="Emaj73">153344220</integer>
+    <integer name="Emaj73Line">1111107122</integer>
+    <integer name="Emaj74">662244331</integer>
+    <integer name="Emaj74Line">111012011</integer>
+    <integer name="Emaj75">112233441</integer>
+    <integer name="Emaj75Line">1111001123</integer>
+    <integer name="Emaj76">149913991</integer>
+    <integer name="Emaj76Line">1111004020</integer>
+
+    <integer name="Emaj7p9Num">2</integer>
+    <integer name="Emaj7p90">443355110</integer>
+    <integer name="Emaj7p90Line">1111111011</integer>
+    <integer name="Emaj7p91">164433111</integer>
+    <integer name="Emaj7p91Line">1111012112</integer>
+
+    <integer name="Edim7Num">2</integer>
+    <integer name="Edim70">442233110</integer>
+    <integer name="Edim70Line">1111002011</integer>
+    <integer name="Edim71">335544220</integer>
+    <integer name="Edim71Line">111106122</integer>
+
+    <integer name="Emmaj7Num">7</integer>
+    <integer name="Emmaj70">445599990</integer>
+    <integer name="Emmaj70Line">111111100</integer>
+    <integer name="Emmaj71">441133220</integer>
+    <integer name="Emmaj71Line">1111002122</integer>
+    <integer name="Emmaj72">134499550</integer>
+    <integer name="Emmaj72Line">111104103</integer>
+    <integer name="Emmaj73">153322440</integer>
+    <integer name="Emmaj73Line">1111107112</integer>
+    <integer name="Emmaj74">116633221</integer>
+    <integer name="Emmaj74Line">1110011111</integer>
+    <integer name="Emmaj75">663344551</integer>
+    <integer name="Emmaj75Line">11112012</integer>
+    <integer name="Emmaj76">164455991</integer>
+    <integer name="Emmaj76Line">111112120</integer>
+
+    <integer name="E7b5Num">4</integer>
+    <integer name="E7b50">999955330</integer>
+    <integer name="E7b50Line">11110010</integer>
+    <integer name="E7b51">443322110</integer>
+    <integer name="E7b51Line">1111002112</integer>
+    <integer name="E7b52">154422990</integer>
+    <integer name="E7b52Line">111107120</integer>
+    <integer name="E7b53">664455331</integer>
+    <integer name="E7b53Line">11112011</integer>
+
+    <integer name="E7s5Num">2</integer>
+    <integer name="E7s50">339955990</integer>
+    <integer name="E7s50Line">11111020</integer>
+    <integer name="E7s51">163399551</integer>
+    <integer name="E7s51Line">11112103</integer>
+
+    <integer name="E7b9Num">2</integer>
+    <integer name="E7b90">331155990</integer>
+    <integer name="E7b90Line">1111111010</integer>
+    <integer name="E7b91">161133551</integer>
+    <integer name="E7b91Line">1111112112</integer>
+
+    <integer name="Em7b5Num">4</integer>
+    <integer name="Em7b50">441399990</integer>
+    <integer name="Em7b50Line">1111002100</integer>
+    <integer name="Em7b51">553344220</integer>
+    <integer name="Em7b51Line">111107011</integer>
+    <integer name="Em7b52">226644331</integer>
+    <integer name="Em7b52Line">111011111</integer>
+    <integer name="Em7b53">441399991</integer>
+    <integer name="Em7b53Line">1111004100</integer>
+
+    <integer name="E9Num">4</integer>
+    <integer name="E90">335511990</integer>
+    <integer name="E90Line">1111111110</integer>
+    <integer name="E91">445513990</integer>
+    <integer name="E91Line">1111106110</integer>
+    <integer name="E92">166644221</integer>
+    <integer name="E92Line">111111111</integer>
+    <integer name="E93">163355111</integer>
+    <integer name="E93Line">1111112122</integer>
+
+    <integer name="Em9Num">3</integer>
+    <integer name="Em90">551199990</integer>
+    <integer name="Em90Line">1111112000</integer>
+    <integer name="Em91">445513990</integer>
+    <integer name="Em91Line">1111105220</integer>
+    <integer name="Em92">169955111</integer>
+    <integer name="Em92Line">1111112022</integer>
+
+    <integer name="Eadd9Num">2</integer>
+    <integer name="Eadd90">335599440</integer>
+    <integer name="Eadd90Line">1111111103</integer>
+    <integer name="Eadd91">134455220</integer>
+    <integer name="Eadd91Line">1111104233</integer>
+
+    <integer name="E6p9Num">3</integer>
+    <integer name="E6p90">152299990</integer>
+    <integer name="E6p90Line">1111114100</integer>
+    <integer name="E6p91">345522110</integer>
+    <integer name="E6p91Line">1111106111</integer>
+    <integer name="E6p92">156622111</integer>
+    <integer name="E6p92Line">1111111111</integer>
+
+    <integer name="E11Num">2</integer>
+    <integer name="E110">553399110</integer>
+    <integer name="E110Line">1111112002</integer>
+    <integer name="E111">159922990</integer>
+    <integer name="E111Line">1111107020</integer>
+
+    <integer name="Em11Num">2</integer>
+    <integer name="Em110">152299990</integer>
+    <integer name="Em110Line">1111107100</integer>
+    <integer name="Em111">126644331</integer>
+    <integer name="Em111Line">1111010222</integer>
+
+    <integer name="E13Num">2</integer>
+    <integer name="E130">335522990</integer>
+    <integer name="E130Line">1111111110</integer>
+    <integer name="E131">163355221</integer>
+    <integer name="E131Line">1111112122</integer>
+
+    <integer name="E5Num">3</integer>
+    <integer name="E50">559999990</integer>
+    <integer name="E50Line">112000</integer>
+    <integer name="E51">449933990</integer>
+    <integer name="E51Line">11002020</integer>
+    <integer name="E52">559944990</integer>
+    <integer name="E52Line">1107020</integer>
+
+    <integer name="Esus2Num">2</integer>
+    <integer name="Esus20">159944330</integer>
+    <integer name="Esus20Line">1111107022</integer>
+    <integer name="Esus21">559944330</integer>
+    <integer name="Esus21Line">1111112022</integer>
+
+    <integer name="Esus4Num">2</integer>
+    <integer name="Esus40">995544330</integer>
+    <integer name="Esus40Line">1111110200</integer>
+    <integer name="Esus41">165544331</integer>
+    <integer name="Esus41Line">1111112222</integer>
+
+    <integer name="EaugNum">2</integer>
+    <integer name="Eaug0">332244550</integer>
+    <integer name="Eaug0Line">1111111012</integer>
+    <integer name="Eaug1">332244550</integer>
+    <integer name="Eaug1Line">111105012</integer>
+
+    <integer name="EdimNum">2</integer>
+    <integer name="Edim0">554499990</integer>
+    <integer name="Edim0Line">11111100</integer>
+    <integer name="Edim1">554422330</integer>
+    <integer name="Edim1Line">111107112</integer>
+</resources>

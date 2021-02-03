@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="FMajorNum">9</integer>
+    <integer name="FMajor0">123344990</integer>
+    <integer name="FMajor0Line">1111001120</integer>
+    <integer name="FMajor1">163355440</integer>
+    <integer name="FMajor1Line">1111111122</integer>
+    <integer name="FMajor2">143311220</integer>
+    <integer name="FMajor2Line">1111003223</integer>
+    <integer name="FMajor3">132244550</integer>
+    <integer name="FMajor3Line">1111105123</integer>
+    <integer name="FMajor4">154433220</integer>
+    <integer name="FMajor4Line">1111108222</integer>
+    <integer name="FMajor5">145566991</integer>
+    <integer name="FMajor5Line">111110230</integer>
+    <integer name="FMajor6">149999111</integer>
+    <integer name="FMajor6Line">1111000003</integer>
+    <integer name="FMajor7">165566111</integer>
+    <integer name="FMajor7Line">1111110233</integer>
+    <integer name="FMajor8">163355441</integer>
+    <integer name="FMajor8Line">1111113122</integer>
+
+    <integer name="FmNum">6</integer>
+    <integer name="Fm0">169955440</integer>
+    <integer name="Fm0Line">1111111022</integer>
+    <integer name="Fm1">141133220</integer>
+    <integer name="Fm1Line">1111003123</integer>
+    <integer name="Fm2">334422550</integer>
+    <integer name="Fm2Line">111105113</integer>
+    <integer name="Fm3">152244330</integer>
+    <integer name="Fm3Line">1111108122</integer>
+    <integer name="Fm4">345599661</integer>
+    <integer name="Fm4Line">11110103</integer>
+    <integer name="Fm5">169955441</integer>
+    <integer name="Fm5Line">1111113022</integer>
+
+    <integer name="F6Num">5</integer>
+    <integer name="F60">662233990</integer>
+    <integer name="F60Line">111111010</integer>
+    <integer name="F61">149933110</integer>
+    <integer name="F61Line">1111003022</integer>
+    <integer name="F62">224433550</integer>
+    <integer name="F62Line">111106112</integer>
+    <integer name="F63">159914990</integer>
+    <integer name="F63Line">1111108020</integer>
+    <integer name="F64">446622331</integer>
+    <integer name="F64Line">111012112</integer>
+
+    <integer name="Fm6Num">5</integer>
+    <integer name="Fm60">661399990</integer>
+    <integer name="Fm60Line">1111011000</integer>
+    <integer name="Fm61">141133990</integer>
+    <integer name="Fm61Line">1111003120</integer>
+    <integer name="Fm62">143355110</integer>
+    <integer name="Fm62Line">1111106122</integer>
+    <integer name="Fm63">446613991</integer>
+    <integer name="Fm63Line">1111012110</integer>
+    <integer name="Fm64">141133991</integer>
+    <integer name="Fm64Line">1111005120</integer>
+
+    <integer name="Fmb6Num">8</integer>
+    <integer name="Fmb60">162255440</integer>
+    <integer name="Fmb60Line">1111111122</integer>
+    <integer name="Fmb61">169944550</integer>
+    <integer name="Fmb61Line">1111111023</integer>
+    <integer name="Fmb62">224411330</integer>
+    <integer name="Fmb62Line">1111002123</integer>
+    <integer name="Fmb63">149955110</integer>
+    <integer name="Fmb63Line">1111106022</integer>
+    <integer name="Fmb64">152233440</integer>
+    <integer name="Fmb64Line">1111108123</integer>
+    <integer name="Fmb65">166633221</integer>
+    <integer name="Fmb65Line">111111222</integer>
+    <integer name="Fmb66">162255441</integer>
+    <integer name="Fmb66Line">1111113122</integer>
+    <integer name="Fmb67">169944551</integer>
+    <integer name="Fmb67Line">1111113023</integer>
+
+    <integer name="F7Num">8</integer>
+    <integer name="F70">664433990</integer>
+    <integer name="F70Line">11111010</integer>
+    <integer name="F71">163355990</integer>
+    <integer name="F71Line">1111111120</integer>
+    <integer name="F72">142233110</integer>
+    <integer name="F72Line">1111003122</integer>
+    <integer name="F73">224455330</integer>
+    <integer name="F73Line">111106122</integer>
+    <integer name="F74">159944220</integer>
+    <integer name="F74Line">1111108022</integer>
+    <integer name="F75">141199991</integer>
+    <integer name="F75Line">1111000100</integer>
+    <integer name="F76">556644331</integer>
+    <integer name="F76Line">11112112</integer>
+    <integer name="F77">163355991</integer>
+    <integer name="F77Line">1111113120</integer>
+
+    <integer name="Fm7Num">6</integer>
+    <integer name="Fm70">169955990</integer>
+    <integer name="Fm70Line">1111111020</integer>
+    <integer name="Fm71">442211330</integer>
+    <integer name="Fm71Line">1111003112</integer>
+    <integer name="Fm72">445533220</integer>
+    <integer name="Fm72Line">111106223</integer>
+    <integer name="Fm73">152244990</integer>
+    <integer name="Fm73Line">1111108120</integer>
+    <integer name="Fm74">224433110</integer>
+    <integer name="Fm74Line">1111009112</integer>
+    <integer name="Fm75">169955991</integer>
+    <integer name="Fm75Line">1111113020</integer>
+
+    <integer name="Fmaj7Num">7</integer>
+    <integer name="Fmaj70">662244330</integer>
+    <integer name="Fmaj70Line">111011011</integer>
+    <integer name="Fmaj71">223344990</integer>
+    <integer name="Fmaj71Line">1111001120</integer>
+    <integer name="Fmaj72">149913990</integer>
+    <integer name="Fmaj72Line">1111003020</integer>
+    <integer name="Fmaj73">139944550</integer>
+    <integer name="Fmaj73Line">1111105023</integer>
+    <integer name="Fmaj74">153344220</integer>
+    <integer name="Fmaj74Line">1111108122</integer>
+    <integer name="Fmaj75">662244331</integer>
+    <integer name="Fmaj75Line">111013011</integer>
+    <integer name="Fmaj76">149913991</integer>
+    <integer name="Fmaj76Line">1111005020</integer>
+
+    <integer name="Fmaj7p9Num">1</integer>
+    <integer name="Fmaj7p90">662244110</integer>
+    <integer name="Fmaj7p90Line">1111111012</integer>
+
+    <integer name="Fdim7Num">3</integer>
+    <integer name="Fdim70">999966330</integer>
+    <integer name="Fdim70Line">111010010</integer>
+    <integer name="Fdim71">442233110</integer>
+    <integer name="Fdim71Line">1111003011</integer>
+    <integer name="Fdim72">335544220</integer>
+    <integer name="Fdim72Line">111107122</integer>
+
+    <integer name="Fmmaj7Num">8</integer>
+    <integer name="Fmmaj70">996633220</integer>
+    <integer name="Fmmaj70Line">1110010100</integer>
+    <integer name="Fmmaj71">993322440</integer>
+    <integer name="Fmmaj71Line">1111000102</integer>
+    <integer name="Fmmaj72">663344550</integer>
+    <integer name="Fmmaj72Line">11111012</integer>
+    <integer name="Fmmaj73">164455990</integer>
+    <integer name="Fmmaj73Line">111111120</integer>
+    <integer name="Fmmaj74">441133220</integer>
+    <integer name="Fmmaj74Line">1111003122</integer>
+    <integer name="Fmmaj75">134499550</integer>
+    <integer name="Fmmaj75Line">111103103</integer>
+    <integer name="Fmmaj76">153322440</integer>
+    <integer name="Fmmaj76Line">1111108112</integer>
+    <integer name="Fmmaj77">116633221</integer>
+    <integer name="Fmmaj77Line">1110012111</integer>
+
+    <integer name="F7b5Num">5</integer>
+    <integer name="F7b50">664433990</integer>
+    <integer name="F7b50Line">111011010</integer>
+    <integer name="F7b51">664455330</integer>
+    <integer name="F7b51Line">11111011</integer>
+    <integer name="F7b52">443322110</integer>
+    <integer name="F7b52Line">111103112</integer>
+    <integer name="F7b53">154422990</integer>
+    <integer name="F7b53Line">111108120</integer>
+    <integer name="F7b54">664455331</integer>
+    <integer name="F7b54Line">11113011</integer>
+
+    <integer name="F7s5Num">2</integer>
+    <integer name="F7s50">664433220</integer>
+    <integer name="F7s50Line">111111011</integer>
+    <integer name="F7s51">154499990</integer>
+    <integer name="F7s51Line">111106100</integer>
+
+    <integer name="F7b9Num">2</integer>
+    <integer name="F7b90">134499220</integer>
+    <integer name="F7b90Line">1111002102</integer>
+    <integer name="F7b91">442233110</integer>
+    <integer name="F7b91Line">1111101011</integer>
+
+    <integer name="Fm7b5Num">4</integer>
+    <integer name="Fm7b50">996644330</integer>
+    <integer name="Fm7b50Line">111010100</integer>
+    <integer name="Fm7b51">441399990</integer>
+    <integer name="Fm7b51Line">1111003100</integer>
+    <integer name="Fm7b52">553344220</integer>
+    <integer name="Fm7b52Line">111108011</integer>
+    <integer name="Fm7b53">226644331</integer>
+    <integer name="Fm7b53Line">111012111</integer>
+
+    <integer name="F9Num">5</integer>
+    <integer name="F90">664422990</integer>
+    <integer name="F90Line">111111000</integer>
+    <integer name="F91">163355110</integer>
+    <integer name="F91Line">1111111122</integer>
+    <integer name="F92">445513990</integer>
+    <integer name="F92Line">1111107110</integer>
+    <integer name="F93">166644221</integer>
+    <integer name="F93Line">111112111</integer>
+    <integer name="F94">163355111</integer>
+    <integer name="F94Line">1111113122</integer>
+
+    <integer name="Fm9Num">3</integer>
+    <integer name="Fm90">149999110</integer>
+    <integer name="Fm90Line">1111001002</integer>
+    <integer name="Fm91">169955110</integer>
+    <integer name="Fm91Line">1111111022</integer>
+    <integer name="Fm92">445513990</integer>
+    <integer name="Fm92Line">1111106220</integer>
+
+    <integer name="Fadd9Num">2</integer>
+    <integer name="Fadd90">223344110</integer>
+    <integer name="Fadd90Line">1111001122</integer>
+    <integer name="Fadd91">134455220</integer>
+    <integer name="Fadd91Line">1111105233</integer>
+
+    <integer name="F6p9Num">3</integer>
+    <integer name="F6p90">662211990</integer>
+    <integer name="F6p90Line">1111111000</integer>
+    <integer name="F6p91">345522110</integer>
+    <integer name="F6p91Line">1111107111</integer>
+    <integer name="F6p92">156622111</integer>
+    <integer name="F6p92Line">1111112111</integer>
+
+    <integer name="F11Num">2</integer>
+    <integer name="F110">159922990</integer>
+    <integer name="F110Line">1111108020</integer>
+    <integer name="F111">159999990</integer>
+    <integer name="F111Line">1111108000</integer>
+
+    <integer name="Fm11Num">2</integer>
+    <integer name="Fm110">152299990</integer>
+    <integer name="Fm110Line">1111108100</integer>
+    <integer name="Fm111">126644331</integer>
+    <integer name="Fm111Line">1111011222</integer>
+
+    <integer name="F13Num">2</integer>
+    <integer name="F130">163355220</integer>
+    <integer name="F130Line">1111111122</integer>
+    <integer name="F131">154422110</integer>
+    <integer name="F131Line">1111108222</integer>
+
+    <integer name="F5Num">3</integer>
+    <integer name="F50">669955990</integer>
+    <integer name="F50Line">111020</integer>
+    <integer name="F51">449933990</integer>
+    <integer name="F51Line">11003020</integer>
+    <integer name="F52">559944990</integer>
+    <integer name="F52Line">1108020</integer>
+
+    <integer name="Fsus2Num">2</integer>
+    <integer name="Fsus20">129999440</integer>
+    <integer name="Fsus20Line">1111001002</integer>
+    <integer name="Fsus21">159944330</integer>
+    <integer name="Fsus21Line">1111108022</integer>
+
+    <integer name="Fsus4Num">2</integer>
+    <integer name="Fsus40">165544330</integer>
+    <integer name="Fsus40Line">1111111222</integer>
+    <integer name="Fsus41">129944330</integer>
+    <integer name="Fsus41Line">1111001022</integer>
+
+    <integer name="FaugNum">2</integer>
+    <integer name="Faug0">113322440</integer>
+    <integer name="Faug0Line">1111001112</integer>
+    <integer name="Faug1">441133220</integer>
+    <integer name="Faug1Line">1111003233</integer>
+
+    <integer name="FdimNum">2</integer>
+    <integer name="Fdim0">331199440</integer>
+    <integer name="Fdim0Line">1111001002</integer>
+    <integer name="Fdim1">112299330</integer>
+    <integer name="Fdim1Line">1110007203</integer>
+</resources>

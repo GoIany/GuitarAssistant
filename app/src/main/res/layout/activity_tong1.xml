@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Lecture.tong1">
+
+    <ViewFlipper
+        android:id="@+id/viewFlipper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_weight="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <View
+                android:id="@+id/view5"
+                android:layout_width="match_parent"
+                android:layout_height="70dp" />
+
+            <FrameLayout
+                android:id="@+id/let1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2">
+
+                <TextView
+                    android:id="@+id/textView31"
+                    android:layout_width="match_parent"
+                    android:layout_height="103dp"
+                    android:layout_gravity="center"
+                    android:background="@color/lecture_textview_color"
+                    android:gravity="center"
+                    android:letterSpacing="0.07"
+                    android:text="Aucustic Guitar \n 통기타"
+
+
+                    android:textColor="@color/lecture_title_color"
+                    android:textSize="24sp" />
+
+                <ImageView
+                    android:id="@+id/img_lecture_1"
+                    android:layout_width="132dp"
+                    android:layout_height="163dp"
+                    android:layout_gravity="center_vertical"
+                    app:srcCompat="@drawable/lecture_1" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/let2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="2">
+
+                <TextView
+                    android:id="@+id/textView33"
+                    android:layout_width="match_parent"
+                    android:layout_height="103dp"
+                    android:layout_gravity="center"
+                    android:background="@color/lecture_textview_color"
+                    android:gravity="center"
+                    android:letterSpacing="0.07"
+                    android:text="Electric Guitar\n 일렉기타"
+                    android:textColor="@color/lecture_title_color"
+                    android:textSize="24sp" />
+
+                <ImageView
+                    android:id="@+id/img_lecture_2"
+                    android:layout_width="132dp"
+                    android:layout_height="163dp"
+                    android:layout_gravity="center_vertical"
+                    app:srcCompat="@drawable/lecture_2" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/let3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2">
+
+                <TextView
+                    android:id="@+id/textView56"
+                    android:layout_width="match_parent"
+                    android:layout_height="103dp"
+                    android:layout_gravity="center"
+                    android:background="@color/lecture_textview_color"
+                    android:gravity="center"
+                    android:letterSpacing="0.07"
+                    android:text="Base Guitar \n베이스기타"
+                    android:textColor="@color/lecture_title_color"
+                    android:textSize="24sp" />
+
+                <ImageView
+                    android:id="@+id/img_lecture_3"
+                    android:layout_width="132dp"
+                    android:layout_height="163dp"
+                    android:layout_gravity="center_vertical"
+                    app:srcCompat="@drawable/lecture_3" />
+
+            </FrameLayout>
+
+            <View
+                android:id="@+id/view6"
+                android:layout_width="match_parent"
+                android:layout_height="70dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ListView
+                android:id="@+id/listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+            </ListView>
+
+        </LinearLayout>
+
+
+    </ViewFlipper>
+
+    <com.poly.GuitarAssistant.GuitarChord.UnderbarMenu
+        android:id="@+id/UnderBarMenu2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menubar_background"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageButton
+            android:id="@+id/act1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:onClick="mOnClick"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/ic_guitar_code" />
+
+        <ImageButton
+            android:id="@+id/act2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:onClick="mOnClick"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/ic_guitar_lecture" />
+
+        <ImageButton
+            android:id="@+id/act3"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:onClick="mOnClick"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/ic_guitar_price" />
+
+    </LinearLayout>
+-->
+</LinearLayout>
